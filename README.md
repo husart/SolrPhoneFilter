@@ -1,4 +1,4 @@
-SolrPhoneFilter
+Solr Phone Filter
 ===============
 
 This plugin provides a solr filter which can be used to format phone numbers using [libphonenumber](http://code.google.com/p/libphonenumber/) library.
